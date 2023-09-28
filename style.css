@@ -18,7 +18,7 @@ body {
   position: fixed;
   background-color: rgb(42, 36, 68);
   height: 100vh;
-  padding: 3rem;
+  padding: 2rem;
   z-index: 9;
   right: 0;
   transform: translateX(100%);
